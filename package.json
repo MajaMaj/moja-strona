@@ -1,0 +1,25 @@
+{
+  "name": "moja-strona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MajaMaj/moja-strona.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MajaMaj/moja-strona/issues"
+  },
+  "homepage": "https://github.com/MajaMaj/moja-strona#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "bootstrap": "^5.1.3"
+  }
+}
